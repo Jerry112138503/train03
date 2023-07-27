@@ -1,3 +1,3 @@
 def debugger():
-    print("逸軒好強!!!!逸軒好帥!!!!!!!!!!")
+    print("這是Clone下來改的喔!")
 
